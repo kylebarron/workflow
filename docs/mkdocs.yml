@@ -1,0 +1,41 @@
+# Project Information
+site_name: An Efficient Workflow for Data Analysis
+site_description: 'An Efficient Workflow for Data Analysis'
+site_author: 'Kyle Barron'
+
+# Project structure:
+# pages:
+#     - Home: index.md
+#     - Top-level README: README.md
+
+# Repository
+repo_url: 'https://github.com/kylebarron/workflow'
+
+# Copyright
+copyright: 'Copyright &copy; 2017 Kyle Barron'
+
+# Theme
+theme: 'material'
+
+# Options
+extra:
+    palette:
+        primary: 'orange'
+        accent: 'light blue'
+    # font: Roboto
+    social:
+        - type: 'github'
+          link: 'https://github.com/kylebarron'
+        - type: 'key'
+          link: 'https://keybase.io/kylebarron'
+        - type: 'linkedin'
+          link: 'https://www.linkedin.com/in/kyle-barron-448b5888/'
+
+markdown_extensions:
+    - admonition
+    - codehilite
+    - footnotes
+    - meta
+    - pymdownx.smartsymbols
+    - pymdownx.tasklist(custom_checkbox=true)
+    - pymdownx.tilde
