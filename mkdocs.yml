@@ -10,6 +10,7 @@ site_author: 'Kyle Barron'
 
 # Repository
 repo_url: 'https://github.com/kylebarron/workflow'
+edit_uri: 'blob/master/docs'
 
 # Copyright
 copyright: 'Copyright &copy; 2017 Kyle Barron'
