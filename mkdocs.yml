@@ -10,7 +10,7 @@ site_author: 'Kyle Barron'
 
 # Repository
 repo_url: 'https://github.com/kylebarron/workflow'
-edit_uri: 'blob/master/docs'
+repo_name: 'kylebarron/workflow'
 
 # Copyright
 copyright: 'Copyright &copy; 2017 Kyle Barron'
@@ -25,6 +25,8 @@ extra:
         accent: 'light blue'
     # font: Roboto
     social:
+        - type: 'globe'
+          link: 'https://kylebarron.github.io'
         - type: 'github'
           link: 'https://github.com/kylebarron'
         - type: 'key'
