@@ -21,6 +21,11 @@
             "title": "Project layout"
         },
         {
+            "location": "/documentation/",
+            "text": "",
+            "title": "Documentation"
+        },
+        {
             "location": "/folder_structure/",
             "text": "",
             "title": "Folder structure"
